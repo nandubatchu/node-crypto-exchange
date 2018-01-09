@@ -1,0 +1,26 @@
+{
+  "name": "node-crypto-exchange",
+  "version": "1.0.0",
+  "description": "A cryptocurrency exchange implemenatioin using JavaScript (NodeJS) and PostgreSQL as major components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandubatchu/node-crypto-exchange.git"
+  },
+  "keywords": [
+    "nodejs",
+    "postgresql",
+    "cryptoexchange",
+    "bitcoin",
+    "cryptocurrency"
+  ],
+  "author": "Yadunandan Batchu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandubatchu/node-crypto-exchange/issues"
+  },
+  "homepage": "https://github.com/nandubatchu/node-crypto-exchange#readme"
+}
