@@ -2,8 +2,10 @@
 A cryptocurrency exchange implementation using JavaScript (NodeJS) and PostgreSQL as major components.
 
 
-Todo List:
-==========
+
+## Todo List:
 
 + ~~Git Repository~~
-+ Datastructures
++ Express app template
++ Knex with Postgres config
++ Basic data models (migrations + seeds)
