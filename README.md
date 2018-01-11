@@ -21,6 +21,7 @@ A cryptocurrency exchange implementation using JavaScript (NodeJS) and PostgreSQ
   + Trades
   + Transactions
 + Authentication Module using JWT (in-progress)
++ Trade routes
 + Order Matching Algorithm
 + Socket initialisation
 + OAuth2 Authorisation Server
