@@ -12,15 +12,15 @@ A cryptocurrency exchange implementation using JavaScript (NodeJS) and PostgreSQ
 + ~~Git Repository~~
 + ~~Express app template~~
 + ~~Knex with Postgres config~~
-+ Basic data models (migrations + seeds)
++ ~~Basic data models (migrations + seeds)
   + Users
   + Currencies
   + Currency Pairs
   + Accounts
   + Orders
   + Trades
-  + Transactions
-+ Authentication Module using JWT
+  + Transactions~~
++ Authentication Module using JWT (in-progress)
 + Order Matching Algorithm
 + Socket initialisation
 + OAuth2 Authorisation Server
