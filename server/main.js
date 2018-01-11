@@ -1,10 +1,14 @@
 // Dependencies
 var express = require('express');
-var app = express();
+var bodyParser = require('body-parser');
 
-// Authentication Handler
+// Authentication Handlers
 var jwtHandler = require('./Authentication/jwtHandler.js');
 
+// Initialise the application
+var app = express();
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 // Basic routes
 app.get('/', function (req, res) {
